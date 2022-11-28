@@ -1,0 +1,146 @@
+{
+  "skins": [
+	{
+      "localization_name": "format",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "format.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "creeper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "creeper.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "hacks",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "hacks.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "portal",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "portal.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "rainbow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "rainbow.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "yt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "youtube.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "e",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "e.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "twitch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "twitch.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "duck",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "duck.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "derp",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "derp.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "feather",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "feather.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "face",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "face.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "face2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "girl_skin.png",
+      "cape": "face2.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "fcw",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "fcw.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "fcb",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "fcb.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "bm",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "batman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "inset",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin.png",
+      "cape": "inset.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "cwc",
+      "geometry": "geometry.ac",
+      "texture": "skin_cosmetics.png",
+      "cape": "face.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "cwoc",
+      "geometry": "geometry.ac",
+      "texture": "skin_cosmetics.png",
+	  "cape": "",
+      "type": "free"
+    },
+	{
+      "localization_name": "mini",
+      "geometry": "geometry.m",
+      "texture": "skin_m.png",
+	  "cape": "",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "custom-cosmetics-pack",
+  "localization_name": "custom-cosmetics-pack"
+}

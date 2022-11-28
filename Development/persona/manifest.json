@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+      "description": "Made by ENDLESS HACKER0",
+      "name": "§l§k§b:§r§aCosmetics Pack§l§k§b:",
+      "uuid": "89ed60bf-2f3f-4e6e-924d-e5d86533f914",
+      "version": [
+          1,
+          0,
+          1
+      ]
+  },
+  "modules": [
+      {
+          "type": "skin_pack",
+          "uuid": "1543b805-c86d-47db-807b-37c8094b92be",
+          "version": [
+              1,
+              0,
+              0
+          ]
+      }
+  ]
+}
