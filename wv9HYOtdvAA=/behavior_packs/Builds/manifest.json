@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§l§eCool Structures!",
+        "name": "§l§1Structures",
+        "uuid": "6442f22f-8fb3-40fd-abf7-af8b93cbdab9",
+        "version": [1, 11, 0],
+        "min_engine_version": [1, 11, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "bcb7b5cf-1373-49d1-9624-6e13c59bb278",
+            "version": [1, 11, 0]
+        }
+    ]
+}

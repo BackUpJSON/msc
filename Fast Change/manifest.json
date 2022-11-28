@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made by ENDLESS HACKER0",
+        "name": "§l§k§b:§r§aFast Pick§l§k§b:",
+        "uuid": "7f3fcfde-469a-4f4f-826c-9ba632f89ca0",
+        "version": [
+            1,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "6d00d2c7-5b63-479f-8c7e-10cf9b8fbcca",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+  }

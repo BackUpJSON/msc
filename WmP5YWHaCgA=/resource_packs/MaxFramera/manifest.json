@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "adds a Max Framerate slider to advanced options",
+      "name" : "Max Framerate",
+      "uuid" : "758c5d54-9ef7-368f-b4ec-9728b441553f",
+      "version" : [ 0, 0, 1 ]
+   },
+   "modules" : [
+      {
+         "description" : "MaxFramerate",
+         "type" : "resources",
+         "uuid" : "73d32146-cd6b-3f09-b6b4-2726834edeca",
+         "version" : [ 0, 0, 1 ]
+      }
+   ]
+}

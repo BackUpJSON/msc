@@ -1,0 +1,20 @@
+{
+   "errors" : null,
+   "location" : {
+      "fs" : 2,
+      "path" : "/data/user/0/com.mojang.minecraftpe/cache/minecraftpe/max-framerate.mcpack"
+   },
+   "upgraded" : true,
+   "warnings" : [
+      {
+         "key" : 13,
+         "parameters" : [ "/header/pack_id", "758c5d54-9ef7-368f-b4ec-9728b441553f" ],
+         "type" : 2
+      },
+      {
+         "key" : 13,
+         "parameters" : [ "/modules/0/uuid", "73d32146-cd6b-3f09-b6b4-2726834edeca" ],
+         "type" : 2
+      }
+   ]
+}
